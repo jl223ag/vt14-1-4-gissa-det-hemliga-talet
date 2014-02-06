@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SecretNumber.Default" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEAAABAAAAEAAAAIAIAAAAAAAAAAAAAIBgCA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecretNumber.Model.Secret">
+    <Position X="2.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAACAUEAAAQAAAAAAAAAAIAAggBAAAA=</HashCode>
+      <FileName>Model\Secret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SecretNumber.Model.Outcome">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgABAAAAAAAAgAJAAA=</HashCode>
+      <FileName>Model\Secret.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,48 @@
+﻿body{
+    font-size: 110%;
+    line-height: 2;
+}
+h1{    
+    margin: 2% 0;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+h1, form{
+    margin-left: 4%;
+    padding-left: 2%;
+}
+form{
+    border-left: 1px solid black;
+}
+h1{
+    width: 600px;
+    border-bottom: 20px solid gray;    
+}
+#InputField{
+    width: 60px;
+    height: 25px;
+    font-family: inherit;
+    font-size: inherit;
+}
+#Send, #GetNewNumber{
+    font-family: inherit;
+    font-size: inherit;
+}
+#GetNewNumber{
+    display: block;
+    margin-top: 20px;
+}
+#GuessHolder{
+    display: block;
+}
+a{
+    background-color: yellow;
+    margin-left: 6%;
+    font-size: inherit;
+}
+#ErrorCode{
+    font-size: 1.5em;
+    margin-left: 6%;
+}
+.red{
+    color: red;
+}
